@@ -1,0 +1,562 @@
+[
+  {
+    "title": "The Bourne Identity",
+    "author": "Robert Ludlum",
+    "isbn": "9780553260113",
+    "description": "A gripping spy thriller where an amnesiac man unravels a complex web of conspiracy to reclaim his identity.",
+    "genre": "action"
+  },
+  {
+    "title": "Jurassic Park",
+    "author": "Michael Crichton",
+    "isbn": "9780345538987",
+    "description": "A thrilling science fiction novel exploring the consequences of cloning dinosaurs for a theme park.",
+    "genre": "action"
+  },
+  {
+    "title": "I Am Number Four",
+    "author": "Pittacus Lore",
+    "isbn": "9780061969577",
+    "description": "The first in a young adult sci-fi series about a teenage alien with special abilities hiding on Earth, pursued by deadly enemies.",
+    "genre": "action"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "isbn": "9780425133512",
+    "description": "A high-stakes Cold War thriller revolving around a Soviet submarine captain's defection and the hunt for a technologically advanced nuclear submarine.",
+    "genre": "action"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "9780307474278",
+    "description": "A captivating mystery where symbologist Robert Langdon unravels codes and symbols to solve a murder and uncover a larger conspiracy.",
+    "genre": "action"
+  },
+  {
+    "title": "The Revenant",
+    "author": "Michael Punke",
+    "isbn": "9781250072689",
+    "description": "Inspired by true events, this historical adventure recounts the survival and revenge journey of a frontiersman in the 19th-century American wilderness.",
+    "genre": "action"
+  },
+  {
+    "title": "The Gunslinger",
+    "author": "Stephen King",
+    "isbn": "9781501166112",
+    "description": "The first book in Stephen King's 'Dark Tower' series, blending elements of fantasy and western, following the Gunslinger Roland Deschain on his quest for the Dark Tower.",
+    "genre": "action"
+  },
+  {
+    "title": "I Am Number Four",
+    "author": "Pittacus Lore",
+    "isbn": "9780061969577",
+    "description": "The first in a young adult sci-fi series about a teenage alien with special abilities hiding on Earth, pursued by deadly enemies.",
+    "genre": "action"
+  },
+  {
+    "title": "The Three Musketeers",
+    "author": "Alexandre Dumas",
+    "isbn": "9781853260407",
+    "description": "A classic adventure novel set in 17th-century France, featuring the swashbuckling adventures of d'Artagnan and the Three Musketeers.",
+    "genre": "action"
+  },
+  {
+    "title": "Bravo Two Zero",
+    "author": "Andy McNab",
+    "isbn": "9780552141273",
+    "description": "A gripping autobiographical account of an SAS patrol's mission during the Gulf War, detailing their struggles against overwhelming odds.",
+    "genre": "action"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780345339683",
+    "description": "A classic fantasy adventure following Bilbo Baggins on a quest to reclaim treasure guarded by the dragon Smaug.",
+    "genre": "adventure"
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "isbn": "9780385486804",
+    "description": "A non-fiction adventure narrative about Christopher McCandless, a young man who abandons society to live in the Alaskan wilderness.",
+    "genre": "adventure"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415",
+    "description": "A philosophical novel following Santiago, a shepherd boy, on a journey to discover his personal legend and the meaning of life.",
+    "genre": "adventure"
+  },
+  {
+    "title": "The Lost City of Z",
+    "author": "David Grann",
+    "isbn": "9781400078455",
+    "description": "A non-fiction adventure exploring the life of Percy Fawcett, a British explorer who disappeared while searching for a mythical city in the Amazon rainforest.",
+    "genre": "adventure"
+  },
+  {
+    "title": "Swiss Family Robinson",
+    "author": "Johann David Wyss",
+    "isbn": "9780141325309",
+    "description": "A classic adventure novel about a shipwrecked family's struggle for survival on a deserted island, showcasing their resourcefulness and ingenuity.",
+    "genre": "adventure"
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "isbn": "9780140449068",
+    "description": "An adventurous journey around the globe as Phileas Fogg attempts to win a bet by traveling around the world in 80 days.",
+    "genre": "adventure"
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "isbn": "9781503275923",
+    "description": "A gripping adventure novel that explores the relationship between a wild wolf-dog and a human, set against the backdrop of the Klondike Gold Rush.",
+    "genre": "adventure"
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "isbn": "9780486264721",
+    "description": "A classic tale of survival and transformation, narrated from the perspective of a domestic dog who returns to a wild, primal state in the Yukon.",
+    "genre": "adventure"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415",
+    "description": "A philosophical novel following Santiago, a shepherd boy, on a journey to discover his personal legend and the meaning of life.",
+    "genre": "adventure"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "isbn": "9780486260303",
+    "description": "A classic adventure novel about the marooned Robinson Crusoe's struggle for survival on a deserted island.",
+    "genre": "adventure"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780590353427",
+    "description": "The start of the iconic fantasy series follows Harry Potter's journey into the wizarding world, his time at Hogwarts, and the discovery of his true identity.",
+    "genre": "kids"
+  },
+  {
+    "title": "Charlotte's Web",
+    "author": "E.B. White",
+    "isbn": "9780061124952",
+    "description": "A heartwarming tale of friendship between a pig named Wilbur and a spider named Charlotte, exploring themes of loyalty and selflessness.",
+    "genre": "kids"
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "isbn": "9780142410370",
+    "description": "A whimsical story of Matilda, a precocious girl with telekinetic powers, navigating life with neglectful parents and a tyrannical headmistress.",
+    "genre": "kids"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "isbn": "9780060254926",
+    "description": "A beloved children's book about Max, a young boy who sails to the land of the Wild Things, exploring themes of imagination and acceptance.",
+    "genre": "kids"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "isbn": "9780064471046",
+    "description": "The classic fantasy novel that transports four siblings into the magical land of Narnia, where they join forces with the lion Aslan to defeat the White Witch.",
+    "genre": "kids"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "isbn": "9780141336534",
+    "description": "A timeless story of transformation and healing as a young girl, Mary Lennox, discovers a hidden, neglected garden and its magical effects.",
+    "genre": "kids"
+  },
+  {
+    "title": "Winnie-the-Pooh",
+    "author": "A.A. Milne",
+    "isbn": "9780140361212",
+    "description": "A collection of charming tales featuring Winnie-the-Pooh and his friends in the Hundred Acre Wood, emphasizing friendship, kindness, and simple joys.",
+    "genre": "kids"
+  },
+  {
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "isbn": "9780723247708",
+    "description": "A classic children's story about Peter Rabbit's mischievous adventures in Mr. McGregor's garden, charmingly illustrated by Beatrix Potter.",
+    "genre": "kids"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "isbn": "9781509813608",
+    "description": "A whimsical and fantastical journey follows Alice as she tumbles down a rabbit hole into a world filled with peculiar characters and surreal happenings.",
+    "genre": "kids"
+  },
+  {
+    "title": "The Gruffalo",
+    "author": "Julia Donaldson",
+    "isbn": "9780142403877",
+    "description": "A delightful children's book featuring a clever mouse who invents a fearsome creature called the Gruffalo to ward off potential predators in the deep, dark woods.",
+    "genre": "kids"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "9780062316097",
+    "description": "A thought-provoking exploration of the history and impact of Homo sapiens, examining the development of human societies and cultures.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "isbn": "9781400052172",
+    "description": "A compelling narrative that delves into the story of Henrietta Lacks and the medical advancements resulting from her immortal cells.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "isbn": "9780399590504",
+    "description": "A memoir recounting Tara Westover's journey from a survivalist family in rural Idaho to earning a PhD through self-education.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "The Sixth Extinction: An Unnatural History",
+    "author": "Elizabeth Kolbert",
+    "isbn": "9781250062185",
+    "description": "An exploration of the ongoing mass extinction event caused by human activities and its profound impact on the planet's biodiversity.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "isbn": "9780679745587",
+    "description": "A groundbreaking true crime novel that reconstructs the brutal murders of the Clutter family in Kansas and the investigation that followed.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "isbn": "9781476728742",
+    "description": "A biography chronicling the lives and achievements of the Wright brothers, pioneers of aviation and inventors of the first successful airplane.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "isbn": "9780618249060",
+    "description": "A groundbreaking work that examines the environmental impact of pesticides, sparking the environmental movement and raising awareness about ecology.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "isbn": "9780553296983",
+    "description": "The poignant and powerful diary of Anne Frank, a Jewish girl hiding with her family during the Holocaust, offering a firsthand account of life in hiding.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "isbn": "9780385494786",
+    "description": "An intense firsthand account of the 1996 Mount Everest disaster, exploring the challenges and risks of high-altitude mountaineering.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "The Elements of Style",
+    "author": "William Strunk Jr. and E.B. White",
+    "isbn": "9780205309023",
+    "description": "A classic guide to English language usage and composition, providing indispensable rules and principles for effective writing.",
+    "genre": "non-fiction"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "isbn": "9780307588371",
+    "description": "A psychological thriller that explores the mysterious disappearance of a woman and the complexities of a troubled marriage.",
+    "genre": "mystery"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "isbn": "9780307949486",
+    "description": "A gripping mystery that follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a wealthy family's dark secrets.",
+    "genre": "mystery"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "isbn": "9780140437867",
+    "description": "A classic Sherlock Holmes mystery where the detective investigates the legend of a supernatural hound haunting the Baskerville family.",
+    "genre": "mystery"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "isbn": "9780425274866",
+    "description": "A compelling mystery centered around a school trivia night that turns deadly, exploring the lives of three women and the secrets they harbor.",
+    "genre": "mystery"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "9780307474278",
+    "description": "A thrilling mystery that follows symbologist Robert Langdon as he unravels a series of codes and symbols to solve a murder and uncover a larger conspiracy.",
+    "genre": "mystery"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "isbn": "9781250301697",
+    "description": "A psychological mystery about a woman who shoots her husband and then stops speaking, leaving her motives shrouded in mystery.",
+    "genre": "mystery"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "isbn": "9780062073495",
+    "description": "A classic Hercule Poirot mystery where the detective investigates a murder on the luxurious Orient Express, revealing a complex web of motives.",
+    "genre": "mystery"
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "isbn": "9780307341556",
+    "description": "A psychological mystery that follows a journalist returning to her hometown to cover the murder of two young girls, unraveling dark family secrets.",
+    "genre": "mystery"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "isbn": "9781594634024",
+    "description": "A psychological thriller centered around a woman who becomes entangled in a missing person investigation while commuting on the train.",
+    "genre": "mystery"
+  },
+  {
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith (pseudonym for J.K. Rowling)",
+    "isbn": "9780316206846",
+    "description": "A contemporary detective mystery featuring private investigator Cormoran Strike as he delves into the apparent suicide of a supermodel.",
+    "genre": "mystery"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "isbn": "9780553380163",
+    "description": "An exploration of the universe's origins, black holes, and the nature of time by the renowned theoretical physicist Stephen Hawking.",
+    "genre": "science"
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "isbn": "9780345539434",
+    "description": "A captivating journey through space and time, exploring the wonders of the cosmos, written by astrophysicist Carl Sagan.",
+    "genre": "science"
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "isbn": "9780198788607",
+    "description": "A groundbreaking exploration of evolutionary biology, introducing the concept of the gene as a self-replicating unit and exploring its implications.",
+    "genre": "science"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "9780062316097",
+    "description": "A thought-provoking exploration of the history and impact of Homo sapiens, examining the development of human societies and cultures.",
+    "genre": "science"
+  },
+  {
+    "title": "The Elegant Universe",
+    "author": "Brian Greene",
+    "isbn": "9780393338102",
+    "description": "An accessible guide to the complex theories of string theory and the nature of the universe, written by physicist Brian Greene.",
+    "genre": "science"
+  },
+  {
+    "title": "The Double Helix",
+    "author": "James D. Watson",
+    "isbn": "9780743216302",
+    "description": "A personal account of the discovery of the structure of DNA, written by James D. Watson, one of the key scientists involved in the breakthrough.",
+    "genre": "science"
+  },
+  {
+    "title": "Silent Spring",
+    "author": "Rachel Carson",
+    "isbn": "9780618249060",
+    "description": "A groundbreaking work that examines the environmental impact of pesticides, sparking the environmental movement and raising awareness about ecology.",
+    "genre": "science"
+  },
+  {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "isbn": "9781476733500",
+    "description": "A comprehensive exploration of the gene's history, impact, and implications for the future of medicine, written by Siddhartha Mukherjee.",
+    "genre": "science"
+  },
+  {
+    "title": "Astrophysics for Young People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "isbn": "9780393356502",
+    "description": "An engaging and concise introduction to astrophysics, written by renowned astrophysicist Neil deGrasse Tyson for a younger audience.",
+    "genre": "science"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "isbn": "9781400052172",
+    "description": "A compelling narrative that delves into the story of Henrietta Lacks and the medical advancements resulting from her immortal cells.",
+    "genre": "science"
+  },
+  {
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "isbn": "9780062397348",
+    "description": "A groundbreaking perspective on U.S. history, focusing on the experiences of marginalized groups and providing an alternative narrative.",
+    "genre": "history"
+  },
+  {
+    "title": "The Guns of August",
+    "author": "Barbara W. Tuchman",
+    "isbn": "9780345476098",
+    "description": "An insightful analysis of the events leading to World War I, exploring the political and military decisions that shaped the conflict.",
+    "genre": "history"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "isbn": "9780553296983",
+    "description": "The poignant and powerful diary of Anne Frank, a Jewish girl hiding with her family during the Holocaust, offering a firsthand account of life in hiding.",
+    "genre": "history"
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "isbn": "9781476728742",
+    "description": "A biography chronicling the lives and achievements of the Wright brothers, pioneers of aviation and inventors of the first successful airplane.",
+    "genre": "history"
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich",
+    "author": "William L. Shirer",
+    "isbn": "9781451651683",
+    "description": "A comprehensive history of Nazi Germany, from its rise to power to its ultimate downfall, written by journalist William L. Shirer.",
+    "genre": "history"
+  },
+  {
+    "title": "1491: New Revelations of the Americas Before Columbus",
+    "author": "Charles C. Mann",
+    "isbn": "9781400032051",
+    "description": "An exploration of the pre-Columbian Americas, challenging conventional views and presenting new perspectives on the civilizations that existed before European contact.",
+    "genre": "history"
+  },
+  {
+    "title": "The Plantagenets: The Warrior Kings and Queens Who Made England",
+    "author": "Dan Jones",
+    "isbn": "9780143124924",
+    "description": "A vivid and engaging history of the Plantagenet dynasty, exploring the political and personal lives of the rulers who shaped medieval England.",
+    "genre": "history"
+  },
+  {
+    "title": "The Devil in the White City",
+    "author": "Erik Larson",
+    "isbn": "9780375725609",
+    "description": "A dual narrative that intertwines the story of the 1893 Chicago World's Fair with the tale of a notorious serial killer operating in the same city.",
+    "genre": "history"
+  },
+  {
+    "title": "The Warmth of Other Suns",
+    "author": "Isabel Wilkerson",
+    "isbn": "9780679763888",
+    "description": "A historical study of the Great Migration, detailing the mass movement of African Americans from the Southern United States to urban areas in the North and West.",
+    "genre": "history"
+  },
+  {
+    "title": "The Silk Roads: A New History of the World",
+    "author": "Peter Frankopan",
+    "isbn": "9781101946336",
+    "description": "A global history that shifts the focus from the West to the interconnected civilizations of the Silk Roads, exploring their impact on world events.",
+    "genre": "history"
+  },
+  {
+    "title": "How We Learn: The Surprising Truth About When, Where, and Why It Happens",
+    "author": "Benedict Carey",
+    "isbn": "9780812993882",
+    "description": "An exploration of the science of learning, offering insights into effective study techniques and strategies to enhance memory and retention.",
+    "genre": "educational"
+  },
+  {
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "author": "Charles Duhigg",
+    "isbn": "9780812981605",
+    "description": "A fascinating exploration of the science of habit formation and how habits influence individual and organizational behavior.",
+    "genre": "educational"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "isbn": "9780374533557",
+    "description": "A Nobel laureate's exploration of the two systems that drive human thought processes, offering insights into decision-making and cognitive biases.",
+    "genre": "educational"
+  },
+  {
+    "title": "The Art of Learning: An Inner Journey to Optimal Performance",
+    "author": "Josh Waitzkin",
+    "isbn": "9780743277464",
+    "description": "A memoir and guide by a chess prodigy and martial arts champion, sharing principles of learning, mastery, and peak performance.",
+    "genre": "educational"
+  },
+  {
+    "title": "Make It Stick: The Science of Successful Learning",
+    "author": "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
+    "isbn": "9780674729018",
+    "description": "An evidence-based exploration of effective learning strategies, challenging common misconceptions about studying and memory.",
+    "genre": "educational"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "isbn": "9780399590504",
+    "description": "A memoir recounting Tara Westover's journey from a survivalist family in rural Idaho to earning a PhD through self-education.",
+    "genre": "educational"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "isbn": "9781982137137",
+    "description": "A timeless self-help classic that presents a holistic approach to personal and professional effectiveness through seven foundational habits.",
+    "genre": "educational"
+  },
+  {
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "isbn": "9780345472328",
+    "description": "A book on the psychology of success, exploring the impact of mindset on achievement and providing insights for personal and professional growth.",
+    "genre": "educational"
+  },
+  {
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "author": "James Clear",
+    "isbn": "9780735211292",
+    "description": "A guide to understanding and changing habits, offering practical strategies for building positive habits and breaking detrimental ones.",
+    "genre": "educational"
+  },
+  {
+    "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "author": "Don Miguel Ruiz",
+    "isbn": "9781878424310",
+    "description": "A guide to personal development based on ancient Toltec wisdom, providing practical agreements for achieving personal freedom and fulfillment.",
+    "genre": "educational"
+  }
+]
